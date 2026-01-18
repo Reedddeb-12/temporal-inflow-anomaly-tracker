@@ -51,7 +51,7 @@ The dashboard accepts CSV files with the following columns:
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/temporal-inflow-anomaly-tracker.git
+git clone https://github.com/Reedddeb-12/temporal-inflow-anomaly-tracker.git
 ```
 
 2. Open `index.html` in a modern web browser
